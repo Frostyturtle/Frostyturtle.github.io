@@ -1,10 +1,24 @@
 ---
 layout: post
-title: You're up and running!
+title: Week 1
 ---
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
 
-![_config.yml]({{ site.baseurl }}/images/config.png)
 
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
+**What are your expectations of the class?**
+I'm expecting to learn a good bit about software development approaches as well as the general workflow simply based on the name of the course. Since our projects will be done in Python, I'm also hoping to gain some experience with the language as I've never used Python before.  
+
+**What did you do this past week?**
+I ended up spending a lot of time looking for interesting non-CS classes to take. Since it was the first week of classes, I mainly just focused on getting familiar with my day-to-day schedule for this semester.     
+
+**What's in your way?**
+Having no prior knowledge of Python is probably going to be a bit of a problem, but I've always heard that Python isn't too difficult to pick up so I'm not excessively worried about it. Getting back into the student mentality might take a few days too, so luckily the first week was fairly relaxing. 
+
+**What will you do next week?**
+Next week is when classes actually start to pick up, so I'm sure I'll have some assignments to be working on.
+
+**What's my experience of the class?**
+Since I took Object-oriented programming with Professor Downing, I already knew what to expect going into the class. The random calling of students is still a little unnerving, but I realized that it definitely makes me pay more attention in class. The first quiz was pretty easy, so I think the class is off to a good start.  
+
+**What's my pick-of-the-week or tip-of-the-week?**
+My tip-of-the-week is to make a habit of doing some HackerRank or Leetcode problems every day, especially if you're feeling rusty after the summer like me. A well-established good habit ends up going a long way. 
